@@ -1,4 +1,4 @@
-This codes is an implementation of a Classification Restricted Boltzmann Machine (ClassRBM).
+This code is an implementation of a Classification Restricted Boltzmann Machine (ClassRBM).
 
 The script "trueMinst2Dataset.m" loads the MINST dataset in matlab variables that can be used by "trainingClassRBM.m".
 
